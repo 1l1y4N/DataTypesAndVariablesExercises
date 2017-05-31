@@ -1,0 +1,2 @@
+# DataTypesAndVariablesExercises
+softuni-tech-module
