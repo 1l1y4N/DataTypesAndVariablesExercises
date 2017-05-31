@@ -1,0 +1,5 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P3CharactersAndStrings\bin\Debug\P3CharactersAndStrings.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P3CharactersAndStrings\bin\Debug\P3CharactersAndStrings.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P3CharactersAndStrings\bin\Debug\P3CharactersAndStrings.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P3CharactersAndStrings\obj\Debug\P3CharactersAndStrings.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P3CharactersAndStrings\obj\Debug\P3CharactersAndStrings.pdb

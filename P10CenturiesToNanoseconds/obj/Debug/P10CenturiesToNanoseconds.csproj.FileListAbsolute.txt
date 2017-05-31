@@ -1,0 +1,6 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P10CenturiesToNanoseconds\obj\Debug\P10CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P10CenturiesToNanoseconds\bin\Debug\P10CenturiesToNanoseconds.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P10CenturiesToNanoseconds\bin\Debug\P10CenturiesToNanoseconds.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P10CenturiesToNanoseconds\bin\Debug\P10CenturiesToNanoseconds.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P10CenturiesToNanoseconds\obj\Debug\P10CenturiesToNanoseconds.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P10CenturiesToNanoseconds\obj\Debug\P10CenturiesToNanoseconds.pdb

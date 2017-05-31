@@ -1,0 +1,5 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P8EmployeeData\bin\Debug\P8EmployeeData.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P8EmployeeData\bin\Debug\P8EmployeeData.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P8EmployeeData\bin\Debug\P8EmployeeData.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P8EmployeeData\obj\Debug\P8EmployeeData.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P8EmployeeData\obj\Debug\P8EmployeeData.pdb

@@ -1,0 +1,5 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P7ExchangeVariableValues\bin\Debug\P7ExchangeVariableValues.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P7ExchangeVariableValues\bin\Debug\P7ExchangeVariableValues.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P7ExchangeVariableValues\bin\Debug\P7ExchangeVariableValues.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P7ExchangeVariableValues\obj\Debug\P7ExchangeVariableValues.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P7ExchangeVariableValues\obj\Debug\P7ExchangeVariableValues.pdb

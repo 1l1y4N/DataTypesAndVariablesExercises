@@ -1,0 +1,5 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P2FloatingPointNumbers\bin\Debug\P2FloatingPointNumbers.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P2FloatingPointNumbers\bin\Debug\P2FloatingPointNumbers.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P2FloatingPointNumbers\bin\Debug\P2FloatingPointNumbers.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P2FloatingPointNumbers\obj\Debug\P2FloatingPointNumbers.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P2FloatingPointNumbers\obj\Debug\P2FloatingPointNumbers.pdb

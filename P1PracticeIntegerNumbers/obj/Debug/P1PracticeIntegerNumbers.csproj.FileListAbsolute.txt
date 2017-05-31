@@ -1,0 +1,6 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P1PracticeIntegerNumbers\bin\Debug\P1PracticeIntegerNumbers.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P1PracticeIntegerNumbers\bin\Debug\P1PracticeIntegerNumbers.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P1PracticeIntegerNumbers\bin\Debug\P1PracticeIntegerNumbers.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P1PracticeIntegerNumbers\obj\Debug\P1PracticeIntegerNumbers.csprojResolveAssemblyReference.cache
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P1PracticeIntegerNumbers\obj\Debug\P1PracticeIntegerNumbers.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P1PracticeIntegerNumbers\obj\Debug\P1PracticeIntegerNumbers.pdb
