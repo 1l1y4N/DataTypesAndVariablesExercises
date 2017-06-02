@@ -11,8 +11,14 @@ namespace P11ConvertSpeedUnits
             double hours = double.Parse(Console.ReadLine());
             double minutes = double.Parse(Console.ReadLine());
             double seconds = double.Parse(Console.ReadLine());
-            Console.WriteLine("{0:F7}", distance / (((hours * 60.0) * 60.0) + (minutes * 60.0) + seconds));
-            Console.WriteLine(("{0:F7}", distance /);
+            seconds += minutes * 60;
+            seconds += hours * 3600;
+
+            double mpsSpeed = distance / seconds;
+            double kmpsSpeed = mpsSpeed * 3.60;
+            double mphSpeed = kmpsSpeed * 0.621504;
+
+            Console.WriteLine("{0:F6}\n{1:F5}\n{2:F5}", mpsSpeed, kmpsSpeed, mphSpeed);
         }
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P16ComparingFloats\bin\Debug\P16ComparingFloats.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P16ComparingFloats\bin\Debug\P16ComparingFloats.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P16ComparingFloats\bin\Debug\P16ComparingFloats.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P16ComparingFloats\obj\Debug\P16ComparingFloats.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariablesExercises\P16ComparingFloats\obj\Debug\P16ComparingFloats.pdb
